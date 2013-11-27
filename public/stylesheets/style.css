@@ -1,0 +1,9 @@
+.header .brand {
+  padding-top: 6px;
+  padding-bottom: 0px;
+}
+
+.header .brand img {
+  height: 25px;
+  width: 92px;
+}
